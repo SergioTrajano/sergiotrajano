@@ -1,6 +1,6 @@
 ### Hi the
 
-**Ola, sou Sérgio um estudante de engenharia Naval, pela UFPE, e estudante de Desenvolvimento Full-Stack pelo BootCamp da Driven. 
+Ola, sou Sérgio um estudante de engenharia Naval, pela UFPE, e estudante de Desenvolvimento Full-Stack pelo BootCamp da Driven. 
 
 
 - 🔭 I’m currently working on ...
