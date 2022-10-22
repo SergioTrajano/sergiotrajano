@@ -29,4 +29,4 @@ Ola, sou Sérgio um estudante de engenharia Naval, pela UFPE, e estudante de Des
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioTrajano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/SergioTrajano/SergioTrajano/blob/output/github-contribution-grid-snake.svg)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
