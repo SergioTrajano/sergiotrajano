@@ -11,7 +11,7 @@ Ola, sou Sérgio um estudante de engenharia Naval, pela UFPE, e estudante de Des
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: I'm a chess fan but really bad at it.
 
-<center>![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=darcula)</center>
+<center><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></center>
 
 ## Languages
 
