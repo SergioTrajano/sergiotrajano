@@ -33,8 +33,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joaocamargo2002/">
 <a href = "mailto:joaovcamargo2002@gmail.com"></a>
    
-<p><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">: <a href="www.linkedin.com/in/sergio-trajano">www.linkedin.com/in/sergio-trajano</a></p>
-<p><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">: <a href = "mailto:sergio.trajanosilva2001@gmail.com">sergio.trajanosilva2001@gmail.com</a>
+<p>Linkedin: <a href="www.linkedin.com/in/sergio-trajano">www.linkedin.com/in/sergio-trajano</a></p>
+<p>Email: <a href = "mailto:sergio.trajanosilva2001@gmail.com">sergio.trajanosilva2001@gmail.com</a>
 </p>
 
 ## :newspaper_roll: Estatísticas
