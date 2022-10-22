@@ -38,7 +38,7 @@ Ola, sou Sérgio um estudante de engenharia Naval, pela UFPE, e estudante de Des
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joaocamargo2002/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href = "mailto:joaovcamargo2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-<p>Linkedin: <a href="https://www.google.com/search?channel=fs&client=ubuntu&q=linkedin"/></p>
+<p>Linkedin: <a href="https://www.google.com/search?channel=fs&client=ubuntu&q=linkedin">https://www.google.com/search?channel=fs&client=ubuntu&q=linkedin </a></p>
 <p>Email: <a href = "mailto:sergio.trajanosilva2001@gmail.com">sergio.trajanosilva2001@gmail.com</a>
 </p>
 
