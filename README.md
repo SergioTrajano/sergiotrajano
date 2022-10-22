@@ -14,7 +14,11 @@ Ola, sou Sérgio um estudante de engenharia Naval, pela UFPE, e estudante de Des
 
 <center>Item centralizado</center>
 
-<center><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align = "center"/></center>
+<center></center>
+
+<p align="center">
+   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+</p>
 
 ## Languages
 
