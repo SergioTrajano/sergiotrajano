@@ -15,9 +15,24 @@ Ola, sou Sérgio um estudante de engenharia Naval, pela UFPE, e estudante de Des
    <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=darcula" alt="Jokes Card"/>
 </p>
 
-## Languages
+## Habilidades
 
-![test](https://img.shields.io/badge/test-000000?style=for-the-badge&logo=teste&logoColor=white)]
+<p>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
+   <img src="BadgeURLAqui" />
+   <img src="BadgeURLAqui" />
+   <img src="BadgeURLAqui" /><img src="BadgeURLAqui" />
+   <img src="BadgeURLAqui" />
+   <img src="BadgeURLAqui" />
+   <img src="BadgeURLAqui" />
+   <img src="BadgeURLAqui" />
+   <img src="BadgeURLAqui" /><img src="BadgeURLAqui" />
+   <img src="BadgeURLAqui" />
+   <img src="BadgeURLAqui" />
+   <img src="BadgeURLAqui" />
+   <img src="BadgeURLAqui" />
+   
+</p>
 
 <div>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
