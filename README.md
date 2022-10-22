@@ -1,21 +1,16 @@
-### Hi the
-
-Ola, sou Sérgio um estudante de engenharia Naval, pela UFPE, e estudante de Desenvolvimento Full-Stack pelo BootCamp da Driven. 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on Python
-- 💬 Ask me about Anything
-- 📫 How to reach me: sergio.trajanosilva2001@gmail.com
-- 😄 Pronouns: He/ His
-- ⚡ Fun fact: I'm a chess fan but really bad at it.
+### Oi, sou Sergio
 
 <p align="center">
    <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=darcula" alt="Jokes Card"/>
 </p>
 
-## Habilidades
+ Atualmente estudo desenvolvimento web.
+ 
+ Gosto de passar o tempo lendo:open_book:, assistindo:tv: e jogando :video_game:.
+
+
+
+## :desktop_computer: Habilidades
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -42,7 +37,7 @@ Ola, sou Sérgio um estudante de engenharia Naval, pela UFPE, e estudante de Des
 <p>Email: <a href = "mailto:sergio.trajanosilva2001@gmail.com">sergio.trajanosilva2001@gmail.com</a>
 </p>
 
-## :open_book: Estatísticas
+## :newspaper_roll: Estatísticas
 
 <p>
 <a href="https://github.com/SergioTrajano">
