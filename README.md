@@ -11,6 +11,7 @@ Ola, sou Sérgio um estudante de engenharia Naval, pela UFPE, e estudante de Des
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: I'm a chess fan but really bad at it.
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Languages
 
@@ -28,5 +29,3 @@ Ola, sou Sérgio um estudante de engenharia Naval, pela UFPE, e estudante de Des
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTrajano&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioTrajano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
