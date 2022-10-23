@@ -33,14 +33,6 @@
 </p>
 
 ## :loudspeaker: Fale comigo
-<p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joaocamargo2002/">
-<a href = "mailto:joaovcamargo2002@gmail.com"></a>
-   
-<p>Linkedin: <a href="www.linkedin.com/in/sergio-trajano"></a></p>
-<p>Email: <a href = "mailto:sergio.trajanosilva2001@gmail.com">sergio.trajanosilva2001@gmail.com</a>
-</p>
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-trajano)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio.trajanosilva2001@gmail.com)
 
