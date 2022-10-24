@@ -4,7 +4,7 @@
    <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=darcula" alt="Jokes Card"/>
 </p>
 
- I'm currently working on Web FullStack Developer.
+ I'm currently working on Web FullStack Development.
  
  ⚡ Fun facts:
 
