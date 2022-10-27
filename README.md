@@ -1,15 +1,15 @@
-### Hi there, I'm Sergio
+### Ola, sou Sergio
 
 <p align="center">
    <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=darcula" alt="Jokes Card"/>
 </p>
 
- I'm currently working on Web FullStack Development.
+ Atualmente, estou aperfeiçoando-me como Desenvolvedor Web FullStack.
  
- ⚡ Fun facts:
+ ⚡ Curiosidades:
 
-- I was a bronze medalist:3rd_place_medal: in OBMEP for 3 years
-- I like chess :chess_pawn:, but I'm bad at it
+-  Fui medalhista de bronze:3rd_place_medal: por 3 anos consecutivos da OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas)
+- Eu gosto de xadrez :chess_pawn:, mesmo sendo ruim :laughing:
 
 ## :desktop_computer: Habilidades
 
